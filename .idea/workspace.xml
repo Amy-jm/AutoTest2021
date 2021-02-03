@@ -31,7 +31,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="F:\repo" />
-        <option name="mavenHome" value="F:/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\yungu\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -80,10 +80,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="创建maven仓库" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1612361068591">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1612361666826">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612361068591" />
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612361666826" />
     <state x="412" y="62" key="FileChooserDialogImpl" timestamp="1612360920447">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -92,10 +92,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612360957777" />
-    <state x="175" y="17" key="Vcs.Push.Dialog.v2" timestamp="1612361077188">
+    <state x="175" y="17" key="Vcs.Push.Dialog.v2" timestamp="1612361679756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="17" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612361077188" />
+    <state x="175" y="17" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612361679756" />
     <state x="427" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612361650644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
