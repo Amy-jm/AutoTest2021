@@ -21,6 +21,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1nyNaOsQnOZdjjwIYUtPdwYXn7q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,9 +42,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,11 +57,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612358432990</updated>
-      <workItem from="1612358435858" duration="1171000" />
+      <workItem from="1612358435858" duration="1814000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1612360995085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612360995085" />
+    <state x="412" y="62" key="FileChooserDialogImpl" timestamp="1612360920447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="62" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612360920447" />
+    <state x="60" y="0" key="SettingsEditor" timestamp="1612360957777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612360957777" />
   </component>
 </project>
