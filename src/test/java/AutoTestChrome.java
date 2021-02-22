@@ -5,7 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class test {
+public class AutoTestChrome {
 
     private WebDriver webDriver;
 
