@@ -55,7 +55,7 @@ public class AutoTestElement2 {
         Assert.assertEquals(input,"input");
     }
     @Test
-    public void getTitle(){
+    public void getTitle() {
         String title = driver.getTitle();
         Assert.assertEquals(title,"Yeastar P570");
 
