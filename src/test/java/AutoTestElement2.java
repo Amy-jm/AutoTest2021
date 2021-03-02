@@ -62,6 +62,7 @@ public class AutoTestElement2 {
     }
     @Test
     public void displan(){
+
         WebElement username = driver.findElement(By.id("login_username"));
         boolean a = username.isDisplayed();
         Assert.assertTrue(a);
